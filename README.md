@@ -1,5 +1,5 @@
-# TicTacToe
-## About project:
+## TicTacToe
+# About project:
 Easy game wrote by me at all
-## Technologies:
+# Technologies:
 Python 3.9.7
